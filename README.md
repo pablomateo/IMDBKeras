@@ -49,10 +49,6 @@ To fully test the project, you might need to install some required packages. Ple
 If you want to check my submitted solution, instead run
 
      (pmaienv)$ jupyter notebook IMDB_In_Keras_Solutions.ipynb
-     
-Also check:
-
-     (pmaienv)$ jupyter notebook Student_Admissions.ipynb
 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
